@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(155, 0, 26);
+}
+
+.conteudo{
+    margin: auto;
+    background-color: rgb(248, 218, 228);
+    width: 500px;
+    height: 500px;
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
