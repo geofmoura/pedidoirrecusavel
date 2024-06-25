@@ -14,23 +14,25 @@ body{
 }
 
 #sim{
+    height: 40px;
+    width: 60px;
+    background-color:rgb(155, 0, 26);
+    border:2px solid white;
+    border-radius: 10px;
+    color: white;
+    margin-left: -40px;
+    cursor: pointer;
+}
+
+#nao{
     position: absolute;
     height: 40px;
     width: 60px;
     background-color:rgb(155, 0, 26);
-    border:white;
+    border:2px solid white;
     border-radius: 10px;
     color: white;
-}
-
-#nao{
-    height: 40px;
-    width: 60px;
-    background-color:rgb(155, 0, 26);
-    border:white;
-    border-radius: 10px;
-    color: white;
-    margin-left: 70px;
+    margin-left: 10px;
 }
 
 .coracao{
